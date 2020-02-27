@@ -1,0 +1,7 @@
+---
+login_portal:
+  login:
+    email: admin
+    senha: admin
+  url:
+    link: http://165.227.93.41/lojinha-web/

@@ -1,0 +1,11 @@
+{
+    "viewportWidth": 1024,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "http://165.227.93.41/lojinha-web/",
+    "email" : "admin",
+    "senha" : "admin",
+    "waitForAnimations": false,
+    "animationDistanceThreshold": 50,
+    "trashAssetsBeforeRuns" : false
+}
